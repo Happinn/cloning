@@ -1,5 +1,5 @@
 import Link from "next/link"
-import MailIcons from "./mailIcons"
+import MailIcons from "./MailIcons"
 
 
 
